@@ -5,5 +5,3 @@ console.log("changed on monday 1st time")
 console.log('head done')
 
 console.log("hello my friend !")
-
-jsdfjs
